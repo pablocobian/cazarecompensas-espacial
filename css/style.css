@@ -1,0 +1,45 @@
+
+body{
+    background-image:url('../images/fondo.jpg');
+    background-position: center;
+    background-size: cover;
+  }
+  header{
+    background-color: rgba(0, 0, 0, 0.443);
+    color: antiquewhite;
+  }
+  #rango{
+    background-color: #000000d4;
+  }
+  .colorVerde{
+    color:#00ff00;
+  }
+  .colorAmarillo{
+    color: #f2ff00;
+  }
+  .colorRojo{
+    color:#ff0000;
+  }
+  #cadena{
+    background-color: #000000eb;
+  }
+  #articulo1{
+    color: aliceblue;
+  }
+  #articulo2{
+    color: aliceblue;
+  }
+  #btn-agregar{
+background-color: #FFEE91;
+  }
+  #tabla_registros{
+    background-color: #FD7979;
+  }
+  #btn-select{
+    background-color: #FDACAC;
+  }
+  footer{
+    background-color: rgba(0, 0, 0, 0.443);
+  }
+
+  
